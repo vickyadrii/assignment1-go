@@ -14,7 +14,7 @@ type Friend struct {
 }
 
 func SearchFriendById(id string) {
-	var Friends []Friend = []Friend{
+	friends := []Friend{
 		{
 			ID:         "F1",
 			Name:       "Naufal",
@@ -54,7 +54,7 @@ func SearchFriendById(id string) {
 
 	var isFound bool
 
-	for _, value := range Friends {
+	for _, value := range friends {
 		if id == value.ID {
 			fmt.Printf("id: %s\n", value.ID)
 			fmt.Printf("name: %s\n", value.Name)
