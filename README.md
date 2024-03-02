@@ -1,1 +1,1 @@
-# Assignment 1 - Scalable Web Service with Go | Hacktiv
+# Assignment 1 - Go | Hacktiv
