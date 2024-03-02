@@ -1,1 +1,1 @@
-# Assignment 1 - Go | Hacktiv
+# Assignment 1 - Go | Hacktiv8
